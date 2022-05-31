@@ -1,6 +1,8 @@
 # Guia para iPhone
 Vamos te ajudar a descobrir a quantidade de aplicativos instalados no seu iPhone
 
+Lembrando: este site não coleta e nem rastreia suas informações ou de seu dispositivo!
+
   ## Passo 1: Entre no app Ajustes
 <img align="left" src="https://user-images.githubusercontent.com/51386248/171226569-017407b9-a7f4-4437-a966-835f2d339d40.png" alt="Passo 1" width="350"/>
 <br clear="left"/>
@@ -15,7 +17,6 @@ Vamos te ajudar a descobrir a quantidade de aplicativos instalados no seu iPhone
 
   ## Finalmente: Você verá a quantidade de aplicativos instalados.
 <img align="left" src="https://user-images.githubusercontent.com/51386248/171226798-6d62702b-9af6-45c5-9583-19281caa2858.png" alt="Passo 5" width="350"/>
+<br> 
 Para este exemplo, o número de aplicativos instalados é 128.
 <br clear="left"/>
-
-
