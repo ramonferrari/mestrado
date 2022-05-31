@@ -9,12 +9,12 @@ Vamos te ajudar a descobrir a quantidade de aplicativos instalados no seu Androi
 
   ## Passo 2: Clique em sua foto
 <img align="left" src="https://user-images.githubusercontent.com/51386248/171216582-2e71a08b-2aa3-4a6d-878b-36b4963051db.png" alt="Passo 2" width="350"/>
-No canto superior direito!
+<br> No canto superior direito!
 <br clear="left"/>
 
   ## Passo 3: Vá em "Gerenciar apps e dispositivos"
 <img align="left" src="https://user-images.githubusercontent.com/51386248/171216584-ef093088-0492-438f-98be-cea25cc7b27a.png" alt="Passo 3" width="350"/>
-Em algumas versões do Android, o caminho é "Meus apps e jogos".
+<br> Em algumas versões do Android, o caminho é "Meus apps e jogos".
 <br clear="left"/>
 
   ## Passo 4: Clique na barra de uso de armazenamento
@@ -23,5 +23,5 @@ Em algumas versões do Android, o caminho é "Meus apps e jogos".
 
   ## Finalmente: Você verá a quantidade de aplicativos instalados.
 <img align="left" src="https://user-images.githubusercontent.com/51386248/171216577-97aa7c32-20a4-451c-ad0d-3e85eda544fd.png" alt="Passo 5" width="350"/>
-Para este exemplo, o número de aplicativos instalados é 52.
+<br> Para este exemplo, o número de aplicativos instalados é 52.
 <br clear="left"/>
