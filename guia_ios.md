@@ -17,3 +17,5 @@ Vamos te ajudar a descobrir a quantidade de aplicativos instalados no seu iPhone
 <img align="left" src="https://user-images.githubusercontent.com/51386248/171226798-6d62702b-9af6-45c5-9583-19281caa2858.png" alt="Passo 5" width="350"/>
 Para este exemplo, o número de aplicativos instalados é 128.
 <br clear="left"/>
+
+
