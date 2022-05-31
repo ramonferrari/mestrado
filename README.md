@@ -12,7 +12,11 @@ Pesquisadores:
 https://github.com/ramonferrari/mestrado/raw/main/TCLE_Fase1_Questionario.pdf
 
 ## Guia para descobrir número de aplicativos instalados - **iOS**
-https://github.com/ramonferrari/mestrado/blob/main/guia_ios.md
+<img align="left" src="https://user-images.githubusercontent.com/51386248/171232114-6121380a-d4b1-4743-a761-a35f6cf98066.jpg" alt="iOS" width="150"/>
+<br/> https://github.com/ramonferrari/mestrado/blob/main/guia_ios.md
+<br clear="left"/>
 
 ## Guia para descobrir número de aplicativos instalados - **Android**
-https://github.com/ramonferrari/mestrado/blob/main/guia_android.md
+<img align="left" src="https://user-images.githubusercontent.com/51386248/171233650-d15c6f37-55b8-422c-8162-99f85740e3e9.png" alt="android" width="150"/>
+<br/> https://github.com/ramonferrari/mestrado/blob/main/guia_android.md
+<br clear="left"/>
