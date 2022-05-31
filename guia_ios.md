@@ -11,7 +11,6 @@ Vamos te ajudar a descobrir a quantidade de aplicativos instalados no seu iPhone
 
   ## Passo 3: Vá em "Gerenciar apps e dispositivos"
 <img align="left" src="https://user-images.githubusercontent.com/51386248/171226797-e159965a-95ae-42cc-9423-f9291020c4f6.png" alt="Passo 3" width="350"/>
-Em algumas versões do Android, o caminho é "Meus apps e jogos".
 <br clear="left"/>
 
   ## Finalmente: Você verá a quantidade de aplicativos instalados.
