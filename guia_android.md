@@ -1,6 +1,7 @@
 # Guia para o Android
 Vamos te ajudar a descobrir a quantidade de aplicativos instalados no seu Android
 
+**Lembrando**: este site não coleta e nem rastreia suas informações ou de seu dispositivo!
 
   ## Passo 1: Entre no serviço da Play Store
 <img align="left" src="https://user-images.githubusercontent.com/51386248/171220553-ca56cb50-1b49-4378-9cb4-7572e935f06b.png" alt="Passo 1" width="350"/>
