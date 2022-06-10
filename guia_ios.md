@@ -11,7 +11,7 @@ Lembrando: este site não coleta e nem rastreia suas informações ou de seu dis
 <img align="left" src="https://user-images.githubusercontent.com/51386248/171226794-a210ab4b-cf2c-4260-9ab8-7692195644dc.png" alt="Passo 2" width="350"/>
 <br clear="left"/>
 
-  ## Passo 3: Vá em "Gerenciar apps e dispositivos"
+  ## Passo 3: Vá em "Sobre"
 <img align="left" src="https://user-images.githubusercontent.com/51386248/171226797-e159965a-95ae-42cc-9423-f9291020c4f6.png" alt="Passo 3" width="350"/>
 <br clear="left"/>
 
